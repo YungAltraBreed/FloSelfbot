@@ -1,4 +1,4 @@
-# FloSelfbot
+﻿# FloSelfbot
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Floretta's Coding Space](https://img.shields.io/badge/discord-Floretta's%20Coding%20Space-738bd7.svg?style=flat-square)](https://discordapp.com/invite/pPxa93F)
@@ -6,7 +6,7 @@
 
 > Floretta&#39;s selfbot anyone can use.
 
-Current features
+## Current features
 
 1.  Full embed functionality!
 2.  Embed creator! (see wiki for instructions)

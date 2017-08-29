@@ -255,7 +255,7 @@ func messageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 		return
 	}
 
-	if len(m.Content) > 0 && (strings.HasPrefix(strings.ToLower(m.Content), conf.Prefix) || strings.HasPrefix(strings.ToLower(m.Content), "flo.")) {
+	if len(m.Content) > 0 && (strings.HasPrefix(strings.ToLower(m.Content), conf.Prefix)) {
 		// Setting values for the commands
 		var ctx *commands.Context
 		args := strings.Fields(m.Content[len(conf.Prefix):])
